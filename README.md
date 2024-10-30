@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abubakarfarooq13
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning WEB DEVELOPMENT
-- 💞️ I’m looking to collaborate in JOB
+- 🌱 I’m currently working at PhronAI
 - 📫 How to reach me abubakarfarooq13@gmail.com
 
 <!---
